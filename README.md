@@ -1,4 +1,4 @@
-# introduction-to-testing-with-jest
+# Introduction To Testing With Jest
 
 YouTube:
 https://youtu.be/iIJwyrGwCtQ
